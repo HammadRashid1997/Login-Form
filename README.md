@@ -11,7 +11,3 @@ Hammad Rashid
 
 ## Software
 1. Visual Studio Code
-
-
-
-
