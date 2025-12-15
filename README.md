@@ -4,8 +4,9 @@ A login form made using Node Js and Express Js libraries and framework. It has a
 ## Technology and Languages
 1. Node Js
 2. Express Js
-3. HTML-CSS-Javascript
+3. HTML
+4. CSS
+5. Javascript
 
 ## Software
 1. Visual Studio Code
-
